@@ -38,10 +38,6 @@ In the letter, specify:
 * idea or problem
 * Screenshot, talking about.
 
----------------
-
-# yoomoney-cms-opencart3
-
 -------------
 
 # yoomoney-cms-opencart3
