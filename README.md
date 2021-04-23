@@ -1,3 +1,49 @@
+
+# Yoomoney-CMS-OpenCart3
+
+### What is Yumoney
+Yumoney is a module for integrating an online store with Yukassa and YuMoney services.
+
+#### setup instructions
+
+[Setup Instructions] (https://yookassa.ru/docs/support/payments/onboarding/integration/cms-module/opencart2)
+
+### Requirements for CMS
+* version 3.0.x;
+* PHP 5.4 or higher;
+* CURL.
+
+#### YuKassa.
+Through YuKassa, you can configure receiving payments on the site. The method is suitable for legalins and IP: for the connection you need a contract, and money comes to the company's current account.
+
+Under the Agreement, you can choose any set of payment methods: bank cards, electronic wallets, Internet banks, cash, mobile balance, lending. The Commission is taken from each successful payment.
+
+There are additional options: Returns, Holding and other features.
+
+[Site YUKASSA] (https://yookassa.ru/)
+
+#### YuMoney
+
+Through YuMoney, you can configure payment on the website without an agreement on the site: customers will be able to pay from cards and from electronic wallets, money will come to the Yumoney wallet. The Commission is taken from each successful payment.
+
+[Detailed conditions on the Site Yumoney] (https://yoomoney.ru/quickpay/)
+
+### Contacts
+
+If you have questions or ideas for the module, write to us: cms@yoomoney.ru
+
+In the letter, specify:
+* version of the platform,
+* version of the module (you can look at the settings page),
+* idea or problem
+* Screenshot, talking about.
+
+---------------
+
+# yoomoney-cms-opencart3
+
+-------------
+
 # yoomoney-cms-opencart3
 
 ### Что такое ЮMoney
